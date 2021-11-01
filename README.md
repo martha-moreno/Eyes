@@ -3,10 +3,10 @@
 
 
 ## Introduction
-> This project displays markers of Bus locations on a map (using MapBox) after data is fetched directly from Washington Metropolitan Area Transit Authority API
+> This project contains a set of eyes that respond to the position of the pointer of your mouse in the screen
 
 ## Installation
->  Download index.html, mapanimation.js & styles.css all together to the same location/folder
+>  Download index.html, eyes.js & styles.css all together to the same location/folder
 >  Drag & Drop index html into your web browser
 
 ## Built With
